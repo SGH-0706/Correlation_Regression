@@ -1,4 +1,6 @@
 # Correlation and regression for data analysis
+## Name: Srinithi Muthukumar
+## Reg No: 212224240161
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -23,7 +25,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
 # Result
-
+   coefficient of correlation and regression line analysed successfully
 # Output 
+
+![WhatsApp Image 2026-03-10 at 20 24 38](https://github.com/user-attachments/assets/2716a288-72fa-4924-bd23-7be8388f1b38)
+
+ 
